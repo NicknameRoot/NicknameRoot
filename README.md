@@ -1,5 +1,14 @@
 # About_me
-Young furry python programmer UwU 🦊
+<p><em>Young furry python programmer UwU 🦊<img src="https://media.giphy.com/media/H56Aw2OYxgkpi/giphy.gif" width="30">
+</em></p>
+
+```javascript
+Nickname_Root = {
+  age: 18,
+  code: [Python],
+  tools: [Visual Studio Code],
+}
+```
 
 ## Languages
 
