@@ -1,5 +1,5 @@
 # About_me
-<p><em>Young furry python programmer UwU 🦊<img src="https://media.giphy.com/media/H56Aw2OYxgkpi/giphy.gif" width="30">
+<p><em>Young furry python programmer UwU 🦊<img src="https://media.giphy.com/media/H56Aw2OYxgkpi/giphy.gif" width="90">
 </em></p>
 
 ```javascript
