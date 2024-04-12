@@ -5,7 +5,7 @@
 ```javascript
 Nickname_Root = {
   age: 18,
-  code: [Python],
+  code: [Python] [CSS],
   tools: [Visual Studio Code],
 }
 ```
