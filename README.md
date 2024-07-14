@@ -1,9 +1,9 @@
 # About_me
 <p><em>Young furry python programmer UwU 🦊
+</em></p>
 
 <img src="https://github.com/NicknameRoot/NicknameRoot/blob/main/Fox.png" width="180">
 
-</em></p>
 
 ```javascript
 Nickname_Root = {
