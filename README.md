@@ -4,15 +4,13 @@
 
 <img src="https://github.com/NicknameRoot/NicknameRoot/blob/main/Fox.png">
 
-========================================================================================
-| Vorking on projects      | Work status
+| **Vorking on projects**|**Work status**|
 | ------------------------ | --------------------------------- |
 |[About me](https://github.com/NicknameRoot/NicknameRoot)| Work completed until new edits ✅|
 |[Simple Web Site](https://github.com/NicknameRoot/Test_Web_Site)| Created for fun 😋| 
 |[My some customed css for Vencord Discord Themes](https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root)|Edits appear in css as the discord client itself updates🟨|
 |[My python script subsystem project](https://github.com/NicknameRoot/Simple_Bootloader_on_Python)|Will be further developed and improved ✅|
 
-========================================================================================
 
 ```javascript
 Nickname_Root = {
