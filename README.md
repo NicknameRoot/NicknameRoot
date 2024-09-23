@@ -19,7 +19,7 @@
 Nickname_Root = {
   age: 18,
   code: [Python],
-  learning_code: [Java] [HTML] [CSS],
+  learning_code: [Java], [HTML], [CSS],
   tools: [Visual Studio Code],
 }
 ```
