@@ -1,8 +1,10 @@
 # About_me
-<p><em>Young furry python programmer UwU 🦊
+<p><em>Young furry programmer UwU 🦊
 </em></p>
 
 <img src="https://github.com/NicknameRoot/NicknameRoot/blob/main/Fox.png">
+
+## Author's Projects ⚙️
 
 | **Vorking on projects**|**Work status**|
 | ------------------------ | --------------------------------- |
@@ -11,21 +13,27 @@
 |[My some customed css for Vencord Discord Themes](https://github.com/NicknameRoot/Discord_Themes-By-Nickname_Root)|Edits appear in css as the discord client itself updates🟨|
 |[My python script subsystem project](https://github.com/NicknameRoot/Simple_Bootloader_on_Python)|Will be further developed and improved ✅|
 
+## About 🗂️
 
 ```javascript
 Nickname_Root = {
   age: 18,
-  code: [Python] [CSS],
+  code: [Python],
+  learning code: [Java] [HTML] [CSS],
   tools: [Visual Studio Code],
 }
 ```
 
-## Languages
+### Languages
 
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img title="Python" align="left" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img title="Python" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img title="Java" align="left" height="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></a>
+<a href="https://en.wikipedia.org/wiki/HTML"><img title="HTML" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
+<a href="https://en.wikipedia.org/wiki/CSS"><img title="CSS" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a>
 
 <br />
+<br />
 
-## Tools
+### Tools
 
-<a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Code"><img title="Visual Studio Code" align="left" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/32px-Visual_Studio_Code_1.18_icon.svg.png"></a>
+<a href="https://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Code"><img title="Visual Studio Code" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/32px-Visual_Studio_Code_1.18_icon.svg.png"></a>
