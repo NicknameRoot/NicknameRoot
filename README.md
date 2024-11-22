@@ -24,12 +24,17 @@ Nickname_Root = {
 }
 ```
 
+
+### Some general statistics
+![Nickname_Root](https://github-readme-stats.vercel.app/api?username=NicknameRoot&show_icons=true&theme=merko)
+
 ### Languages
 
 <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img title="Python" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a>
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img title="Java" align="left" height="50" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img title="HTML" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img title="CSS" align="left" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a>
+
 
 <br />
 <br />
