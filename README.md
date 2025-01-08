@@ -17,7 +17,7 @@
 
 ```javascript
 Nickname_Root = {
-  age: 18,
+  age: 19,
   code: [Python],
   learning_code: [Java], [HTML], [CSS],
   tools: [Visual Studio Code],
@@ -26,7 +26,9 @@ Nickname_Root = {
 
 
 ### Some general statistics
-![Nickname_Root](https://github-readme-stats.vercel.app/api?username=NicknameRoot&show_icons=true&theme=merko)
+![Nickname_Root](https://github-readme-stats.vercel.app/api?username=NicknameRoot\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage=true&rank_icon=github&theme=merko)
+![Nickname_Root](https://github-readme-stats.vercel.app/api/top-langs/?username=NicknameRoot\&layout=donut&theme=merko)
+
 
 ### Languages
 
